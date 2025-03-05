@@ -1,6 +1,6 @@
 name: List and Read workflow
 
-on: push
+#on: push
 
 jobs:
   first_job:
